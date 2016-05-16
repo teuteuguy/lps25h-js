@@ -1,0 +1,31 @@
+{
+  "name": "lps25h-js",
+  "version": "0.0.1",
+  "description": "Javascript module for LPS25H",
+  "main": "index.js",
+  "dependencies": {
+    "i2c-bus": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teuteuguy/lps25h-js.git"
+  },
+  "author": {
+    "name": "teuteuguy"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teuteuguy/lps25h-js/issues"
+  },
+  "homepage": "https://github.com/teuteuguy/lps25h-js#readme",
+  "readme": "Javascript module for LPS25H\n\nWIP\n\n",
+  "readmeFilename": "README.md",
+  "gitHead": "d73d0214468242500e1aeaff1430130b2302a6b6",
+  "_id": "lps25h-js@1.0.0",
+  "_shasum": "3e36e5d58196243d53e5a9f74c65a1fb92740999",
+  "_from": "lps25h-js@latest"
+}
